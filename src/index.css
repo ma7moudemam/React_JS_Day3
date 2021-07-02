@@ -1,0 +1,45 @@
+body
+{
+    padding: 30px;
+}
+table
+{
+    background-color: lightblue;
+    margin:10px auto !important;
+}
+thead
+{
+    background-color: lightcoral;
+    
+}
+th
+{
+    color: rgb(141, 15, 15) ;
+}
+label
+{
+    color: lightseagreen;
+}
+input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+/* Style the submit button */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.container2 {
+    width: 40%;
+  background-color: #f1f1f1;
+  margin: 10px auto;
+  padding: 20px;
+}
+
